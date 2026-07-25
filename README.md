@@ -2,39 +2,79 @@
 
 <p align="center">
   🇧🇷 Brazilian Software Engineering Student <br>
-  ☕ Java Developer <br>
+  ☕ Aspiring Back-end Java Developer <br>
   💻 Technology Enthusiast
 </p>
 
-<h2>About Me</h2>
-
-<p>
-I am a Software Engineering student from Brazil with a passion for technology and software development.
-Currently, I am focusing on Java programming, continuously improving my skills through academic projects and personal learning.
-I enjoy exploring new technologies, solving problems, and building applications that help me grow as a developer.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=igorhenriquemarcal&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<h2>Tech Stack</h2>
+---
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+## 👨‍💻 About Me
+
+I'm a Software Engineering student from Brazil passionate about software development and technology.
+
+Currently, I'm focused on:
+
+- ☕ Java
+- 🌱 Spring Boot
+- 🗄️ SQL
+- 🐧 Linux
+- 🧩 Object-Oriented Programming
+
+My goal is to become a **Back-end Java Developer**, building scalable and maintainable applications.
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,docker,linux,idea,vscode" />
 </p>
 
-<p align="left">
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=igorhenriquemarcal&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorhenriquemarcal&layout=compact&theme=tokyonight" />
 </p>
-<h2>Goals</h2>
-
-<ul>
-  <li>Improve my Java development skills</li>
-  <li>Build real-world software projects</li>
-  <li>Learn software architecture and best practices</li>
-  <li>Contribute to open-source projects</li>
-</ul>
 
 <p align="center">
-  🚀 Always learning, always building.
+  <img height="170" src="https://streak-stats.demolab.com?user=igorhenriquemarcal&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=igorhenriquemarcal&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/igorhenriquemarcal/igorhenriquemarcal/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 🎯 Current Goals
+
+- 🚀 Improve Java and Spring Boot skills
+- 📚 Practice algorithms on LeetCode
+- 💼 Build real-world back-end projects
+- 🤝 Contribute to open-source projects
+- ☁️ Learn Docker and Cloud fundamentals
+
+---
+
+<h3 align="center">
+🚀 Always learning, always building.
+</h3>
