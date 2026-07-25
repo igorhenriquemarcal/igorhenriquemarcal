@@ -57,13 +57,7 @@ My goal is to become a **Back-end Java Developer**, building scalable and mainta
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/igorhenriquemarcal/igorhenriquemarcal/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
 
 ## 🎯 Current Goals
 
