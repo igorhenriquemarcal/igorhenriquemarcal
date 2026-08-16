@@ -47,16 +47,6 @@ My goal is to become a **Back-end Java Developer**, building scalable and mainta
   <img height="170" src="https://streak-stats.demolab.com?user=igorhenriquemarcal&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=igorhenriquemarcal&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 
 
 ## 🎯 Current Goals
