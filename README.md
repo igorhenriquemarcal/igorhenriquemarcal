@@ -25,37 +25,19 @@
 
 ### 👨‍💻 Sobre Mim
 
-- 🎓 Estudante de **Engenharia de Software**, focado no desenvolvimento de sistemas robustos e escaláveis.
-- ☕ Especializando no ecossistema **Java** e **Spring Boot** para construção de APIs RESTful eficientes.
-- 🗄️ Experiência prática com bancos de dados relacionais (**MySQL**, **PostgreSQL**), modelagem e persistência com **JPA / Hibernate**.
-- 🐧 Usuário de ambiente **Linux**, aplicando boas práticas de versionamento (**Git / GitHub**) e containerização (**Docker**).
-- 🎯 **Objetivo:** Atuar como Desenvolvedor Back-End Java, agregando valor com código limpo, testes e arquitetura de qualidade.
+- 🎓 Estudante de **Engenharia de Software**, focado no desenvolvimento de sistemas e lógica de programação.
+- ☕ Focado no aprendizado e desenvolvimento no ecossistema **Java** e **Spring Boot**.
+- 🛠️ Utilizando **Git** para controle de versão e desenvolvendo com **IntelliJ IDEA**.
+- 🎯 **Objetivo:** Evoluir como Desenvolvedor Back-End Java, construindo projetos práticos e aprimorando fundamentos de programação.
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-
-#### **Linguagens & Back-End**
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,c" alt="Backend Skills" />
-</a>
-
-<br/>
-
-#### **Bancos de Dados & Infraestrutura**
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,linux" alt="Database & DevOps Skills" />
-</a>
-
-<br/>
-
-#### **Ferramentas de Desenvolvimento**
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,maven,postman" alt="Tools Skills" />
-</a>
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,git,idea" alt="Java, Spring, Git e IntelliJ" />
+  </a>
 </div>
 
 ---
@@ -94,10 +76,10 @@
 
 ### 🎯 Foco e Metas Atuais
 
-- 🚀 Aprofundamento em arquitetura de microsserviços e ecossistema Spring Cloud
-- 📚 Resolução contínua de desafios de algoritmos e estruturas de dados no LeetCode
-- 🧪 Implementação de testes automatizados unitários e de integração (JUnit & Mockito)
-- ☁️ Práticas com Docker, Docker Compose e fundamentos de Cloud Computing
+- ☕ Consolidar fundamentos em Java e Programação Orientada a Objetos
+- 🌱 Desenvolver e aprimorar projetos de APIs com Spring Boot
+- 💡 Praticar versionamento e colaboração com Git e GitHub
+- 📚 Resolução contínua de exercícios de lógica e algoritmos
 
 ---
 
