@@ -25,7 +25,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-- 🎓 Graduando em **Engenharia de Software**, focado no desenvolvimento de sistemas robustos e escaláveis.
+- 🎓 Estudante de **Engenharia de Software**, focado no desenvolvimento de sistemas robustos e escaláveis.
 - ☕ Especializando no ecossistema **Java** e **Spring Boot** para construção de APIs RESTful eficientes.
 - 🗄️ Experiência prática com bancos de dados relacionais (**MySQL**, **PostgreSQL**), modelagem e persistência com **JPA / Hibernate**.
 - 🐧 Usuário de ambiente **Linux**, aplicando boas práticas de versionamento (**Git / GitHub**) e containerização (**Docker**).
