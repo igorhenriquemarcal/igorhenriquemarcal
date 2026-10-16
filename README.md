@@ -1,64 +1,106 @@
-<h1 align="center">Hi there 👋, I'm Igor</h1>
+<div align="center">
+
+# Olá! Eu sou o Igor Henrique Marçal 👋
+### ☕ Desenvolvedor Back-End Java | Estudante de Engenharia de Software 🇧🇷
 
 <p align="center">
-  🇧🇷 Brazilian Software Engineering Student <br>
-  ☕ Aspiring Back-end Java Developer <br>
-  💻 Technology Enthusiast
+  <a href="mailto:igorz192marcal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-igorz192marcal%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/igorhenriquemarcal">
+    <img src="https://img.shields.io/badge/GitHub-igorhenriquemarcal-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/igorhenriquemarcal">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=igorhenriquemarcal&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=igorhenriquemarcal&label=Visualiza%C3%A7%C3%B5es%20do%20Perfil&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 Sobre Mim
 
-I'm a Software Engineering student from Brazil passionate about software development and technology.
-
-Currently, I'm focused on:
-
-- ☕ Java
-- 🌱 Spring Boot
-- 🗄️ SQL
-- 🐧 Linux
-- 🧩 Object-Oriented Programming
-
-My goal is to become a **Back-end Java Developer**, building scalable and maintainable applications.
+- 🎓 Graduando em **Engenharia de Software**, focado no desenvolvimento de sistemas robustos e escaláveis.
+- ☕ Especializando no ecossistema **Java** e **Spring Boot** para construção de APIs RESTful eficientes.
+- 🗄️ Experiência prática com bancos de dados relacionais (**MySQL**, **PostgreSQL**), modelagem e persistência com **JPA / Hibernate**.
+- 🐧 Usuário de ambiente **Linux**, aplicando boas práticas de versionamento (**Git / GitHub**) e containerização (**Docker**).
+- 🎯 **Objetivo:** Atuar como Desenvolvedor Back-End Java, agregando valor com código limpo, testes e arquitetura de qualidade.
 
 ---
 
-## 🚀 Tech Stack
+### 🛠️ Tecnologias & Ferramentas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,docker,linux,idea,vscode" />
-</p>
+<div align="center">
 
----
+#### **Linguagens & Back-End**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,c" alt="Backend Skills" />
+</a>
 
-## 📊 GitHub Stats
+<br/>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=igorhenriquemarcal&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorhenriquemarcal&layout=compact&theme=tokyonight" />
-</p>
+#### **Bancos de Dados & Infraestrutura**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,linux" alt="Database & DevOps Skills" />
+</a>
 
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=igorhenriquemarcal&theme=tokyonight&hide_border=true" />
-</p>
+<br/>
 
+#### **Ferramentas de Desenvolvimento**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,maven,postman" alt="Tools Skills" />
+</a>
 
-
-## 🎯 Current Goals
-
-- 🚀 Improve Java and Spring Boot skills
-- 📚 Practice algorithms on LeetCode
-- 💼 Build real-world back-end projects
-- 🤝 Contribute to open-source projects
-- ☁️ Learn Docker and Cloud fundamentals
+</div>
 
 ---
 
-<h3 align="center">
-🚀 Always learning, always building.
-</h3>
+### 📌 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| 🎬 **[cine-reserve](https://github.com/igorhenriquemarcal/cine-reserve)** | Sistema completo de reserva e gerenciamento de ingressos para cinema | `Java` `Spring Boot` `REST API` |
+| 📚 **[CodexLib](https://github.com/igorhenriquemarcal/CodexLib)** | Gerenciador de acervo bibliotecário, empréstimos e controle de usuários | `Java` `POO` `SQL` |
+| 💳 **[deposito-saque-bancario](https://github.com/igorhenriquemarcal/deposito-saque-bancario)** | Aplicação bancária simulando operações com regras de negócio e validações | `Java` `POO` `Clean Code` |
+| 📝 **[Lista-de-notas](https://github.com/igorhenriquemarcal/Lista-de-notas)** | Sistema para organização e gerenciamento prático de tarefas e notas | `Java` `CRUD` |
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorhenriquemarcal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas Gerais" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorhenriquemarcal&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <img src="https://streak-stats.demolab.com?user=igorhenriquemarcal&theme=tokyonight&hide_border=true" alt="Sequência de Contribuições" />
+</div>
+
+---
+
+### 🎯 Foco e Metas Atuais
+
+- 🚀 Aprofundamento em arquitetura de microsserviços e ecossistema Spring Cloud
+- 📚 Resolução contínua de desafios de algoritmos e estruturas de dados no LeetCode
+- 🧪 Implementação de testes automatizados unitários e de integração (JUnit & Mockito)
+- ☁️ Práticas com Docker, Docker Compose e fundamentos de Cloud Computing
+
+---
+
+<div align="center">
+  <sub>Construído com dedicação por <b>Igor Henrique Marçal</b> • ☕ Sempre aprendendo, sempre construindo.</sub>
+</div>
